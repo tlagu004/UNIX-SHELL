@@ -1,0 +1,30 @@
+Instructions for Programming Assignmeng 1
+1. Login to FIU Ocelot or Linux Terminal
+2. Add necessary files and the makefile to the directory
+3. type in make (note to self: it runs the Makefile)
+4. Start running shell.c by typing in ./osh
+5. You should see osh> (start typing commands anywhere after)
+
+Example Test Cases I used in demo:
+
+Basic commands
+Example: osh> ls (list the files)
+
+Background commands
+Example: osh> sleep 10 &
+
+History commands
+Example: osh> ls pwd date !!
+
+Redirection commands
+Example: osh> ls > out.txt (note to self: redirects output to file)
+Example: osh> sort < in.txt (note to self: redirects input from file)
+
+Pipe commands
+Example: osh> ls | grep file.txt
+
+Exit command
+Example: osh> exit
+
+
+
