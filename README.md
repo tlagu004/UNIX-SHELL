@@ -22,3 +22,6 @@ gcc shell.c -o osh
 ./osh
 ```
 **Exit**: Type `exit` to terminate the shell.
+
+## 📺 Demo Video
+[Watch the Demo Video](https://youtu.be/VRpkRhbhdD4)
