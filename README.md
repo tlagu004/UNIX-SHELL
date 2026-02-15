@@ -42,4 +42,4 @@ gcc shell.c -o osh
 **Exit**: Type `exit` to terminate the shell.
 
 ## 📺 Demo Video
-[Watch the Demo Video](https://youtu.be/VRpkRhbhdD4)
+[Watch the Demo Video](https://youtu.be/ISblj3dPUvM)
